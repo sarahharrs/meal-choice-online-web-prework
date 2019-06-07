@@ -1,3 +1,3 @@
 # assigning a meal_choice
-def return_ meal_choice
+def meal_choice()
 end
